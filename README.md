@@ -1,10 +1,10 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - Blog Preview Card component
 
 ![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋## Description
 
-A QR code component designed to match the given design, built using HTML and CSS.
+A Blog Preview Card component designed to match the given design, built using HTML and CSS.
 
 ## Features
 
